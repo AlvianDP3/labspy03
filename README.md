@@ -1,5 +1,3 @@
-# labspy03
-
 n=int(input("Masukkan Nilai N: "))      ## Memperkena1kan variab1e n sebagai integer , kemudian menginputkan ni1ainya
 
 from random import random               ## Mengimport fungsi random
